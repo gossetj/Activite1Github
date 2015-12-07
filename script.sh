@@ -7,4 +7,6 @@ then
 	do
 		echo -e "\t$i"
 	done
+else
+	echo "Echec: saurez-vous comprendre le fonctionnement de ce script?"
 fi
