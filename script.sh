@@ -8,5 +8,5 @@ then
 		echo -e "\t$i"
 	done
 else
-	echo "Echec: saurez-vous comprendre le fonctionnement de ce script?"
+	echo "Echec: saurez-vous comprendre le sfjbvkhndolxfvfonctionnement de ce script?"
 fi
